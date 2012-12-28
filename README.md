@@ -132,3 +132,4 @@ Check the [open issues](https://github.com/gardenofwine/Open-Knesset-Mobile/issu
 עברית
 =======
 בקרוב...
+
